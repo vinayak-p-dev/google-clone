@@ -1,0 +1,9 @@
+Font Guideline
+---------------
+
+Font Family: Inter
+1rem: 10px
+
+font-large: 4rem
+font-medium: 2.4rem
+font-small: 1.6rem
