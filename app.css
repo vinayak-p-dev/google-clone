@@ -177,7 +177,6 @@ ul {
 .languages-list {
   display: flex;
   gap: 1rem;
-  margin-bottom: 3rem;
 }
 .languages-list a {
   color: rgb(36, 36, 139);
@@ -233,3 +232,4 @@ ul {
   justify-content: flex-end;
   gap: 2rem;
 }
+
